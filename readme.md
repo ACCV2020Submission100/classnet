@@ -1,4 +1,4 @@
-## Code for ACCV2020 submission5887
+## Code for ACCV2020 submission100
 
 ## Prerequisites
 - [Python 3.6](https://www.python.org/)
