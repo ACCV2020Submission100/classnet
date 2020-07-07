@@ -1,4 +1,4 @@
-## Code for ECCV2020 submission5887
+## Code for ACCV2020 submission5887
 
 ## Prerequisites
 - [Python 3.6](https://www.python.org/)
@@ -8,7 +8,7 @@
 
 ## Clone repository
 ```shell
-https://github.com/eccv2020submission5887/code.git
+https://github.com/ACCV2020Submission100/code.git
 cd code/classnet/
 ```
 
