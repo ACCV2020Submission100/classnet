@@ -1,7 +1,15 @@
 ## Code for ACCV2020 submission100
+## Update in 2020/08/29!
 
-## Update
+## SOC results
 saliency maps of SOC can be downloaded at: [Google](https://drive.google.com/file/d/1ArD6OEQiwXL7svVfIMeU0RWAekbhqLan/view?usp=sharing)
+![Aaron Swartz](https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig2.png)
+
+## More comparison experiments
+Becasuse the limit of rebutal, we add fully comparison experiment with F3N and MINet in Gibhub.
+![Aaron Swartz](https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig1.png)
+
+
 
 
 ## Prerequisites
