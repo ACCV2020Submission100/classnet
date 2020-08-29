@@ -3,7 +3,7 @@
 
 ## SOC results
 saliency maps of SOC can be downloaded at: [Google](https://drive.google.com/file/d/1ArD6OEQiwXL7svVfIMeU0RWAekbhqLan/view?usp=sharing)
-<img src="https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig2.png" width="150" height="200" alt="图片描述文字"/>
+![Aaron Swartz](https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig2.png =100 x 100)
 
 
 ## More comparison experiments
