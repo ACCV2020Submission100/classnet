@@ -3,7 +3,8 @@
 
 ## SOC results
 saliency maps of SOC can be downloaded at: [Google](https://drive.google.com/file/d/1ArD6OEQiwXL7svVfIMeU0RWAekbhqLan/view?usp=sharing)
-![Aaron Swartz](https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig2.png =100*20)
+<img src="https://github.com/ACCV2020Submission100/code/blob/master/Fig/Fig2.png" width="150" height="200" alt="图片描述文字"/>
+
 
 ## More comparison experiments
 Becasuse the limit of rebutal, we add fully comparison experiment with F3N and MINet in Gibhub.
