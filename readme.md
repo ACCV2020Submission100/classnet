@@ -1,5 +1,9 @@
 ## Code for ACCV2020 submission100
 
+## Update
+saliency maps of SOC can be downloaded at: [Google](https://drive.google.com/file/d/1ArD6OEQiwXL7svVfIMeU0RWAekbhqLan/view?usp=sharing)
+
+
 ## Prerequisites
 - [Python 3.6](https://www.python.org/)
 - [Pytorch 1.1 or 1.3](http://pytorch.org/)
